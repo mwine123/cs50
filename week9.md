@@ -240,3 +240,13 @@ For example, a database could store:
 - application data
 
 The Flask application can receive information from a form, use SQL to work with the database, and then return the result through an HTML template.
+
+# SHORTS AND SECTION
+
+Flask is mainy used to write the backend of python.
+HTML websites are static. We can not write html that contstantly gives us the current time.
+Using flask, we can write a webapp that is dynamic and gives us the
+time and is accurate.
+Decurators are used in flask to deterrmine the behavior of something.
+AJAX allows us to dynamically update a website even more dynamically.
+
